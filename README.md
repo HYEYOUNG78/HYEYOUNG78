@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=HYEYOUNG&fontSize=50&animation=fadeIn&fontAlignY=45)
 
 <br>
-<div align='center'>💻이혜영입니다.</div>
+<div align='center'>💻도전하는 것을 좋아하는 이혜영입니다.</div>
 <br>
 <div align='center'> ✉Email : <a href="mailto:ihyeyoungi@naver.com">ihyeyoungi@naver.com</a></div>
 <!--<div align='center'> 🔗Notion : <a href="https://abounding-clownfish-456.notion.site/9589212dfdac4f8ea36e97dcd79f44d3">노션링크</a></div>-->
