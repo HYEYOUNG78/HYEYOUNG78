@@ -41,6 +41,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Oracle-2D2D2D?style=for-the-badge&logo=Oracle&logoColor=F80000"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Oracle-2D2D2D?style=for-the-badge&logoColor=F80000"/>
+<img src="https://cdn.worldvectorlogo.com/logos/oracle.svg" alt="Oracle logo" width="24" height="24" style="vertical-align: middle; margin-left: 6px;"/>
+
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"/></a>&nbsp 
 </p>
 <br>
